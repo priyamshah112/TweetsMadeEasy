@@ -4,7 +4,7 @@
   "description": "Twitter helpdesk app",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Priyam Shah",
   "license": "ISC",
