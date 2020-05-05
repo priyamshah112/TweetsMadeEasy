@@ -9,6 +9,8 @@ const mongoose=require('mongoose');
 const url = require('url'); 
 const dotenv = require('dotenv');
 
+
+
 dotenv.config();
 var app = express();
 
@@ -24,6 +26,8 @@ function(error){
         console.log("Connected to the database");
     }
 });
+
+
 
 // Twitter Configuration for passport Login / Signin
 
