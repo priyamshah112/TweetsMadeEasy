@@ -18,7 +18,7 @@
     "express": "^4.22.1",
     "express-session": "^1.19.0",
     "mongoose": "^5.9.11",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "passport-twitter": "^1.0.4",
     "save": "^2.4.0",
     "twitter": "^1.7.1"
